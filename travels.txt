@@ -1,0 +1,14 @@
+Domestic:
+* CA
+* SC
+* GA
+* TX
+* NA
+
+International:
+* AUT
+* CZ
+* DEU
+* HUN
+* MEX
+* SVK
